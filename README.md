@@ -27,7 +27,7 @@ This dashboard explores:
 
 ## Screenshots
 ![Overview](images/overview.png)
-![Sales Trends](images/sales-trends.png)
+![State-Level Overview](images/state_level_overview.png)
 
 ## Files
 - `Olist_Dashboard.pbix` (available on request)
