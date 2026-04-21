@@ -26,7 +26,6 @@ This dashboard explores:
 - Delivery delays correlated with lower review scores
 
 ## Screenshots
-![Overview](images/overview.png)
 ![State-Level Overview](images/state_level_overview.png)
 
 ## Files
