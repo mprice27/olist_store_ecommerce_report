@@ -35,6 +35,9 @@ This dashboard explores:
 ![Customer Experience](images/customer_experience.png)
 ![Customer Behavior](images/customer_behavior.png)
 
+## Video Demo
+- https://youtu.be/DpIfKdnDA4o
+
 ## Files
 - `Olist_Store_E-Commerce_Report.pbix` (available on request)
 
