@@ -27,9 +27,9 @@ This dashboard explores:
 
 ## Screenshots
 ![State-Level Overview](images/state_level_overview.png)
-![Sales Performance](images/state_level_overview.png)
-![State-Level Overview](images/state_level_overview.png)
-![State-Level Overview](images/state_level_overview.png)
+![Sales Performance](images/sales_performance.png)
+![Customer Experience](images/customer_experience.png)
+![Customer Behavior](images/customer_behavior.png)
 
 ## Files
 - `Olist_Dashboard.pbix` (available on request)
