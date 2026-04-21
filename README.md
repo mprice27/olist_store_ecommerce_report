@@ -21,6 +21,7 @@ This dashboard explores:
 4. Customer Behavior  
 
 ## Key Insights
+- Majority  of order volume concentrated in small number of states
 - Order volume accelerated sharply toward end of year 
 - Delivery delays correlated with lower review scores
 - Repeat customers showed higher lifetime value
