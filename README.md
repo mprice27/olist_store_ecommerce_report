@@ -21,9 +21,9 @@ This dashboard explores:
 4. Customer Behavior  
 
 ## Key Insights
-- Top-performing states generated a significant share of revenue
-- Repeat customers showed higher lifetime value
+- Order volume accelerated sharply toward end of year 
 - Delivery delays correlated with lower review scores
+- Repeat customers showed higher lifetime value
 
 ## Screenshots
 ![State-Level Overview](images/state_level_overview.png)
