@@ -32,7 +32,7 @@ This dashboard explores:
 ![Customer Behavior](images/customer_behavior.png)
 
 ## Files
-- `Olist_Dashboard.pbix` (available on request)
+- `Olist_Store_E-Commerce_Report.pbix` (available on request)
 
 ## About the Dataset
 Public Brazilian e-commerce dataset from Olist retrieved from Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
