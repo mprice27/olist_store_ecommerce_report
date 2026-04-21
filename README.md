@@ -27,7 +27,7 @@ This dashboard explores:
 - Repeat customers showed higher lifetime value
 
 ## Demo
-![Demo](Olist_Store_E-Commerce_Report_Demo.gif)
+![Demo](Olist Store E-Commerce Report Demo.gif)
 
 ## Screenshots
 ![State-Level Overview](images/state_level_overview.png)
