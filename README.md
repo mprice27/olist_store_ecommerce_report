@@ -26,8 +26,11 @@ This dashboard explores:
 - Delivery delays correlated with lower review scores
 - Repeat customers showed higher lifetime value
 
-## Demo
-![Demo](demo/Olist_Store_E-Commerce_Report_Demo.gif)
+## Dashboard Previews
+![State-Level Overview](images/state_level_overview_video.gif)
+![Sales Performance](images/sales_performance_video.gif)
+![Customer Experience](images/customer_experience_video.gif)
+![Customer Behavior](images/customer_behavior_video.gif)
 
 ## Screenshots
 ![State-Level Overview](images/state_level_overview.png)
